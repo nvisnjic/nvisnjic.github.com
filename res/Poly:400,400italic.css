@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Poly';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poly-Regular'), url(http://fonts.gstatic.com/s/poly/v7/2q6dNtNfG1YHziVjQ1hUSA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Poly';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Poly-Italic'), url(http://fonts.gstatic.com/s/poly/v7/sNpRL69iYnSa-pHm90cZTA.woff) format('woff');
+}
+
