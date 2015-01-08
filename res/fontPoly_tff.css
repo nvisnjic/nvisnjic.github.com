@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Poly';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/res/Poly/Poly-Regular.tff);
+}
+@font-face {
+  font-family: 'Poly';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/res/Poly/Poly-Italic.tff);
+}
+
