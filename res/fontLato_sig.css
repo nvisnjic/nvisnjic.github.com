@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: light;
+  src: url(/Lato/LatoLatinLight-Regular.tff);
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: med;
+  src: url(/Lato/LatoLatinMed-Regular.tff);
+}
