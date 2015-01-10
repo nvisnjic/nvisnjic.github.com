@@ -21,4 +21,4 @@ For more information on my professional life, head on over to [LinkedIn](http://
 [GitHub](https://github.com/nvisnjic) is a good place to look for some juicy code snippets.
 
 
-If in doubt or simply want to share something, feel free to drop me a line or two on visnjic.niko[at]gmail.com
+If in doubt or simply want to share something, feel free to drop me a line or two at <alineortwo@nvisnjic.com>
