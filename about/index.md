@@ -4,30 +4,21 @@ fb_comments: 3
 title: About
 ---
 
-<img src="http://farm3.staticflickr.com/2849/9337114103_c7cf9c0c0c_c.jpg" width="256" height="170" align="right">
+<img src="../res/even_statues_use_it.png" alt="The Internet, even statues use it!" width="250" height="296" align="right">
 
-My name is Rasmus Andersson. I'm a Swedish maker living in San Francisco with a passion for art and technology, who have worked with a number of different companies since the 1990s, including 
-[Facebook](http://facebook.com/design),
-[Spotify](http://www.spotify.com/),
-[Spray](http://www.spray.se/),
-[Lear Corporation](http://lear.com/) and
-[Notion](http://notion.se/).
-More information can be found through [LinkedIn](http://www.linkedin.com/in/rasmusandersson).
+Hi and welcome to my website.
 
-I work for & ♥ [Dropbox](http://dropbox.com/)
-
-- [Read more about my work with Spotify &rarr;](/about/spotify/)
-- [Some of my favorite technical papers &rarr;](https://www.dropbox.com/sh/yukxm18b9gm4b2y/AACEeiII_4fZEjqi0GWiP_lOa/Favorite%20technical%20papers)
+My name is Niko Višnjić.
+Apart from the unusually looking characters in my surname, I'm quite your everyday technology tinkerer. 
+On a regular day or night you'll usually find me testing out some new feature I want to implement in hardware or software, sometimes both.
+I thoroughly enjoy making things come to life and strive to learn as much as I can on the way.
+Things I find worth sharing can usually be found in the post section. Feel free to check it out.
 
 
-## Elsewhere
 
-You can find me on a variety of world wild interweb sites where my username is usually "rsms".
+For more information on my professional life, head on over to [LinkedIn](http://www.linkedin.com/in/nikovisnjic).
 
-- [Twitter](http://twitter.com/rsms) — a good way to make contact
-- [GitHub](https://github.com/rsms) — code, juicy code
-- [Instagram](http://instagram.com/rasmusfabbe/) — short stories via photo snapshots
-- [Flickr](http://www.flickr.com/photos/rsms/) — photography
-- [Facebook](http://www.facebook.com/rsms) — friends and foes
+[GitHub](https://github.com/nvisnjic) is a good place to look for some juicy code snippets.
 
-### [<img src="/res/twitter.png" width="29" height="20" style="display:inline-block;vertical-align:middle"> @rsms](http://twitter.com/rsms)
+
+If in doubt or simply want to share something, feel free to drop me a line or two on visnjic.niko[at]gmail.com
