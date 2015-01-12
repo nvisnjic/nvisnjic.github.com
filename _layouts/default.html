@@ -62,6 +62,18 @@
     {% if page.include_move %}
     <script src="http://movelang.org/move.js"></script>
     {% endif %}
+  
+    <!-- The part that forces _blank on outside links on the site -->
+    <script>
+    var links = document.links;
+
+    for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+        if (links[i].hostname != window.location.hostname) {
+            links[i].target = '_blank';
+        } 
+    }
+    </script>
+  
   </head>
   <body{% if page.wide_layout %} class="wide"{% endif %}>
     <!--script>/*
@@ -100,6 +112,10 @@
         -->
         <li><a href="/about/"{% if page.url contains "/about/" %}class="active"{% endif %}>About me</a></li>
       </ul>
+
+    
+    
+    
     </header>
     <!--div class="wrapper content"-->
       {{ content }}

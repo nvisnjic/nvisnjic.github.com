@@ -15,7 +15,7 @@ Things I find worth sharing can usually be found in the post section. Feel free 
 
 
 
-For more information on my professional life, head on over to [LinkedIn](http://www.linkedin.com/in/nikovisnjic).
+For more information on my professional life, head on over to [LinkedIn](http://www.linkedin.com/in/nikovisnjic). 
 
 [GitHub](https://github.com/nvisnjic) is a good place to look for some juicy code snippets.
 
