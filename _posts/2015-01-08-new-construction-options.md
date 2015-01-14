@@ -1,7 +1,7 @@
 ---
 title: "Building it, one commit at a time"
 description: "The road from an empty GitHub repository to a pretty decent and
-functional minimal website. Thou it's far from finished and there's still 
+functional minimal website. Though it's far from finished and there's still 
 work to be done."
 layout: post
 tags: Jekyll, GitHub
