@@ -1,8 +1,8 @@
 ---
 title: "Setting it up, Arch Linux style"
 description: "Going from a Ruby-less Linux distro to one that can generate your
-static websites in a couple of seconds, serve it locally and
-regenerate it while you write up new posts. Can it make tea? Let's find out."
+static website in a couple of seconds, serve it locally and
+regenerate it, while you write up new posts. Can it make tea as well? Let's find out."
 layout: post
 tags: Jekyll, GitHub
 category: website
@@ -35,7 +35,7 @@ On Arch you can simply use pacman or yaourt to install it the usual way.
     pacman -S ruby
 
 Which conveniently installs RubyGems as well, which you'll need.
-On other distros, use you package manager or binary of choice.
+On other distros, use your package manager or binary of choice.
 
 Once up, be sure to update your gems.
 
@@ -49,9 +49,11 @@ A simple
 should do the trick.
 
 It's time to pick a markup language, which converts your
-text based files to HTML pages. Jekyll supports both Markdown and Textile as
+text based files to HTML pages. Jekyll supports both 
+[Markdown](http://daringfireball.net/projects/markdown/) and 
+[Textile](http://en.wikipedia.org/wiki/Textile_%28markup_language%29) as
 defaults. There's no problem in installing both and just siding with one
-depending on project, but I've decided Markdown does the job fine for now.
+depending on your project. I've decided Markdown does the job fine for me.
 The gem which uses Markdown is called Rdiscount and more info is available on
 the detailed guides above.
 To get rdiscount use: 
@@ -64,7 +66,7 @@ file \_config.yaml.
     markdown: rdiscount
 
 
-This should be all the setup you need. Let's take it for a spin
+This should be all the setup you need. Let's take it out for a spin.
 
 
 Open a terminal and punch in 
@@ -98,6 +100,14 @@ Jekyll will happily build you the content in the \_site folder and the _watch_
 flag will trigger rebuilds if any files change while serving the content.
 
 You can check your new website in your browser at <http://localhost:4000>.
+Cool, no?
 
-That's the basics and you're all set build your web from the foundations up or
-go look for ideas in [other people's lovely Jekyll code](http://jekyllrb.com/docs/sites/).
+
+Sadly, it won't make tea for you automagically (yet!). It does however support 
+[Sass](http://sass-lang.com/) and [CoffeeScript](http://coffeescript.org/) 
+out of the box.
+
+
+That's the basics and you're all set to build your website from foundations up 
+or go look for ideas in 
+[other people's lovely Jekyll code](http://jekyllrb.com/docs/sites/).
