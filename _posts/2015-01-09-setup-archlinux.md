@@ -58,6 +58,7 @@ The gem which uses Markdown is called Rdiscount and more info is available on
 the detailed guides above.
 To get rdiscount use: 
 
+    #!-none
     gem install rdiscount -s http://gemcutter.org
 
 Be sure to specify you're using rdiscount in your Jekyll config
@@ -71,6 +72,7 @@ This should be all the setup you need. Let's take it out for a spin.
 
 Open a terminal and punch in 
 
+    #!-none
     jekyll new my-new-awesome-site
     cd my-new-awesome-site
 
