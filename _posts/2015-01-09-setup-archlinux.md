@@ -77,6 +77,7 @@ Open a terminal and punch in
 
 Your newly generated default Jekyll folder should look something like this:
 
+    #!-none
     .
     |-- _config.yml
     |-- _layouts
