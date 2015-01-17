@@ -1,9 +1,9 @@
 ---
 title: ""
-description: ""
 layout: post
-tags: 
-category: 
+photo_url: "" 
+tags:
+category:
 comments: no
 ---
 
