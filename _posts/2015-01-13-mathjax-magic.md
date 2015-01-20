@@ -73,5 +73,5 @@ As soon as I find something good to math about.
 
 <p align="center">
 <a href="http://kieranhealy.org/blog/archives/2011/02/23/choice-of-language-and-its-consequences/">
-<img src="/images/ltx_paper.png" style="float: middle"></a>
+<img src="/images/ltx_paper.png"></a>
 </p>
