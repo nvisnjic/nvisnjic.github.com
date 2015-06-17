@@ -25,7 +25,7 @@ development platform.
 * Soon to begin testing data in Octave. A possible issue
   is that the data should come from rotating the sensor around a stable axis,
   which would require building an apparatus to hold the sensors while rotating
-  in n a stable
+  in a stable
   orbit. If it turns out to be a blocker, I'll look into 3D printing such a
   device and rigging it to the BeagleBone
 * Last weeks ML library issue should be a non issue, I'll use a matrix computation library when porting the code to C++, it should suffice
