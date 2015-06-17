@@ -1,0 +1,96 @@
+---
+layout: page
+title: Archive
+---
+<img id="beaglenaut" src="./beaglesat.png"  alt="BeagleSat">
+
+<style type="text/css">
+#beaglenaut {
+    position: relative;
+    width: 45%;
+    float: right;
+    top: -4em;
+}
+</style>
+
+<!--NO SEARCH, for now
+    *Need a JS alternative for this. Google aint gonna roll in China.
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <p>
+    <input type="hidden" name="cx" value="006553118601910168903:-x3qflztwei" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" id="cse-search-field" placeholder="Search Niko's stuff" />
+  </p>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<script type="text/javascript">
+var search_field = document.getElementById('cse-search-field');
+search_field.style.background = null;
+if (window.rsmsHostIsIOS) {
+  search_field.type = 'search';
+} else {
+  search_field.select();
+  search_field.focus();
+}
+search_field.addEventListener('blur', function (ev) {
+  this.style.background = null;
+});
+
+</script>
+
+--> 
+
+<style type="text/css">
+#cse-search-field {
+  width: 70%;
+  font-size: inherit;
+  font-family: helvetica, sans-serif;
+  padding:0.5em 1em;
+}
+#cse-search-field {
+  border:2px solid #ddd;
+  border-radius: 90px;
+}
+#cse-search-field:focus {
+  outline:none;
+  border-color: #2299ff;
+}
+html.ios #cse-search-field {
+  padding:0.5em 1em;
+  -webkit-appearance: none;
+}
+html.ios #cse-search-button {
+  display: none;
+}
+</style>
+
+<p>
+BeagleSat is an open-source nano satellite platform based on the BeagleBone embedded development board.
+</p>
+
+<p>
+It's a framework and tool set for designing your very own CubeSat from the ground up, while expanding the CubeSat community and bringing space that much closer to anyone willing to hack.
+</p>
+
+<!--
+<p>
+It's purpose, to provide everyone involved in CubeSat development with the tools neccesary to make a nano satellite from the ground up, aims to expand the CubeSat community and bring space that much closer to anyone willing to hack.
+</p>
+-->
+
+
+<br />
+
+<p>
+If you're looking for more info you've come to the right place. All the stuff I've ever written on BeagleSat is linked below, along with a couple of other usefull links. Be sure to check them out and check them often for updates.
+</p>
+
+<ul>
+{% for post in site.posts %}
+    {% if post.category contains "BeagleSat" %}
+        <li>
+            {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endif %}
+{% endfor %}
+</ul>
