@@ -1,6 +1,6 @@
 ---
 title: "GSOC Week 7"
-description: "Crunching in on the API, includes some (siginificant!) amount of reading"
+description: "Crunching in on the API, includes some (significant!) amount of reading"
 layout: post
 tags: beaglebone, linux, SPI, gsoc2015
 category: BeagleSat 
@@ -14,8 +14,8 @@ Heeding all the warning on how not to screw it up, hopefully.
 
 *Worked on*
 
-* More API desin reading, mostly done
-* Had a hangout with S. Arnold and Alexander H. to discuss the API, got some good insights from that
+* More API design reading, mostly done
+* Had a hangout with S. Arnold and Alexander H. about the API, got some good insights from them
 
 
 *Issues:*
