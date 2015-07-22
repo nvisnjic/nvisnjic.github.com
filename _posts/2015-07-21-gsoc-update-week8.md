@@ -19,7 +19,7 @@ Added a LKM module to start testing sysfs interfacing next week.
 
 *Issues:*
 
-* Had trouble compiling floating point into kernel code. Tried -mhard-float got "gcc: error: -msoft-float and -mhard_float may not be used together", tried more focused flags, and compiled a program that optimizes out sscanfs format to a static string. GCC not being nice.
+* Had trouble compiling floating point into kernel code. Tried -mhard-float got "gcc: error: -msoft-float and -mhard_float may not be used together", tried more focused flags, and compiled a program that optimizes out sscanf()'s format to a static string. GCC not being nice.
 * Solving the non-linear equations is currently on hold; Mathematica is a
   possible solution (working on it!)
 
