@@ -1,6 +1,6 @@
 ---
 title: "GSOC Week 4"
-description: "2D correction works like a charm, forward to 3D and other nice dimensions"
+description: "2D correction works like a charm, forward to 3D and other nice dimensions."
 layout: post
 tags: beaglebone, linux, SPI, gsoc2015
 category: BeagleSat 

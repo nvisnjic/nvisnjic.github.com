@@ -1,6 +1,6 @@
 ---
 title: "GSOC Week 6"
-description: "Moved on to requirements and API design. Linux kernel modules are fascinating and (not very) hard"
+description: "Moved on to requirements and API design. Linux kernel modules are fascinating and (not very) hard."
 layout: post
 tags: beaglebone, linux, SPI, gsoc2015
 category: BeagleSat 

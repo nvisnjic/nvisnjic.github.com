@@ -1,6 +1,6 @@
 ---
 title: "A first glance at the 2D Correction algorithm"
-description: "Just finished a MATLAB/Octave script to test out correction from a distorted ellipse set of measurements to an ideal set of data points"
+description: "Just finished a MATLAB/Octave script to test out correction from a distorted ellipse set of measurements to an ideal set of data points."
 layout: post
 tags: beaglebone, sensors, gsoc2015, MATLAB, Octave
 category: BeagleSat 

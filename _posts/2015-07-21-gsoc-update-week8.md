@@ -1,13 +1,16 @@
 ---
 title: "GSOC Week 8"
-description: "Got some basic API code in, also an input-output Linux loadable kernel module (LKM) for testing. Floating point stuff in the LKM module not there yet"
+description: "Got some basic API code in, also an input-output Linux loadable kernel module (LKM) for testing. Floating point stuff in the LKM module not there yet."
 layout: post
 tags: beaglebone, linux, SPI, gsoc2015
 category: BeagleSat 
 comments: no
 ---
 
-
+Finally got some code up on GitHub, set up the proper Makefile structure
+to make building Doxygen documentation as easy as invoking "make doxy".
+Next stop, expanding the API header to some real-life usable code.
+Added a LKM module to start testing sysfs interfacing next week.
 
 *Worked on*
 

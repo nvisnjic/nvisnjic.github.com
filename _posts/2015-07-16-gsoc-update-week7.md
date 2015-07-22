@@ -1,6 +1,6 @@
 ---
 title: "GSOC Week 7"
-description: "Crunching in on the API, includes some (significant!) amount of reading"
+description: "Crunching in on the API, includes some (significant!) amount of reading."
 layout: post
 tags: beaglebone, linux, SPI, gsoc2015
 category: BeagleSat 
