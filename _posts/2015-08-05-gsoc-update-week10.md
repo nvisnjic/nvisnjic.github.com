@@ -1,5 +1,5 @@
 ---
-title: "GSOC Week "
+title: "GSOC Week 10"
 description: "Note to self: Documentation is *super* important!"
 layout: post
 tags: beaglebone, linux, SPI, gsoc2015
