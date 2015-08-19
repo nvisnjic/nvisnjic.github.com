@@ -1,6 +1,6 @@
 ---
 title: "GSOC Week 12"
-description: "A working Python example (almost) complete"
+description: "Found a solver that does the job, Python should be up in a bit"
 layout: post
 tags: beaglebone, linux, SPI, gsoc2015
 category: BeagleSat 
